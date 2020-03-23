@@ -12,6 +12,8 @@ export class FooterComponent implements OnInit {
   constructor(public infoPaginaService : InfoPaginaService) { }
 
   ngOnInit(): void {
+    
   }
+
 
 }
